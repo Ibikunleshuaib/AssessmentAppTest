@@ -9,7 +9,7 @@ It also contains two pages with side drawer navigation.
 
 ## Set-Up Procedure
 
-Clone this repository to your computer and run npm install in your terminal to install all dependences.
+Clone this repository to your computer and run npm install in your terminal to install all dependencies.
 
 You may as well delete the package-lock.json file before running the command above.
 
